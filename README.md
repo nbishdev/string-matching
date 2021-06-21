@@ -1,2 +1,2 @@
-# string-matching
-String matching and edit stistance in DNA strings in Molecular Biology problems. 
+# Exact and approximate string matching in DNA strings
+String matching and edit stistance computation in DNA strings in Molecular Biology problems. 
